@@ -18,5 +18,10 @@ const getMaleWeight = (weight, height, age) => {
 
 export {
     getFemaleWeight,
-    getMaleWeight
+    getMaleWeight,
+    WEIGHT_RATE,
+    HEIGHT_RATE,
+    AGE_RATE,
+    MALE_RATE,
+    FEMALE_RATE
 };
